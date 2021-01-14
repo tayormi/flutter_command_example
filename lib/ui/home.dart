@@ -81,7 +81,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: [
                   Text('An Error has occurred!'),
                   Text(error.toString()),
-                  if (error != null) Text('For search term: $category')
                 ],
               ),
             )
