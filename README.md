@@ -1,16 +1,26 @@
 # flutter_command_example
 
-A new Flutter project.
+A Chuck Noris jokes app built with Flutter Command
 
-## Getting Started
+## 💻 Requirements
 
-This project is a starting point for a Flutter application.
+* Any Operating System (i.e MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* Flutter Command
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<div style="background-color:rgb(169,169,169); text-align:center">
+<img src="screenshots/ss1.png" width="300" style="border-radius: 15px">
+</div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔌 Plugins
+
+| Name | Usage |
+|:------:|:-------:|
+|[**flutter_command**](https://pub.dev/packages/flutter_command)| State Management|
+|[**DIO**](https://pub.dev/packages/dio)| Network calls|
+
+## 🤓 Author
+
+**Ajiboye Temitope Oluwatayomi** [![Twitter Follow](https://img.shields.io/twitter/follow/olu_tayormi?label=Follow&style=social)](https://twitter.com/olu_tayormi)
